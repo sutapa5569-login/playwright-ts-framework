@@ -1,10 +1,14 @@
 import type { Locator, Page } from '@playwright/test';
 import { loginTestData } from '../testdata.ts/logintestData.ts';
+import {apipostData} from '../testdata.ts/apipostdata.ts';
 
 export class BasePage {
     readonly page: Page;
     readonly validEmail = loginTestData.validUser.email;
     readonly validPassword = loginTestData.validUser.password;
+    // readonly fname = apipostData.User.fname;
+    // readonly lname = apipostData.User.lname;
+    // readonly skills = apipostData.User.skills;
 
     constructor(page: Page) {
         this.page = page;

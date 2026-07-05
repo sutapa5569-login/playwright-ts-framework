@@ -3,12 +3,12 @@
   "devDependencies": {
     "@playwright/test": "^1.61.1",
     "@types/node": "^26.1.0",
+    "json-server": "^1.0.0-beta.15",
     "ts-node": "^10.9.2",
     "typescript": "^6.0.3"
   },
   "scripts": {
-  "test": "playwright test --project=chromium",
-  "test:headed": "playwright test --headed --project=chromium",
-  "report": "playwright show-report"
-}
+    "test": "playwright test --project=chromium",
+    "report": "playwright show-report"
+  }
 }

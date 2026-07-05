@@ -1,0 +1,77 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Sutapa Sarkar",
+      "skills": "Playwright",
+      "role": "QA Engineer"
+    },
+    {
+      "name": "Sutapa Sarkar",
+      "Skills": "Playwright",
+      "role": "Qa Engineer",
+      "id": "AGZsTAKtrNw"
+    },
+    {
+      "name": "Sutapa Sarkar",
+      "Skills": "Playwright",
+      "role": "Qa Engineer",
+      "id": "Sulk52QPbRk"
+    },
+    {
+      "name": "Sutapa Sarkar",
+      "Skills": "Playwright",
+      "role": "Qa Engineer",
+      "id": "cxqL02arGgY"
+    },
+    {
+      "name": "Sutapa Sarkar",
+      "Skills": "Playwright",
+      "role": "Qa Engineer",
+      "id": "V0GYngVMgpI"
+    },
+    {
+      "name": "Sutapa Sarkar",
+      "Skills": "Playwright",
+      "role": "Qa Engineer",
+      "id": "6aVU-9CehkI"
+    },
+    {
+      "name": "Sutapa Sarkar",
+      "Skills": "Playwright",
+      "role": "Qa Engineer",
+      "id": "xThfDAQEz5U"
+    },
+    {
+      "name": "Sutapa Sarkar",
+      "Skills": "Playwright",
+      "role": "Qa Engineer",
+      "id": "B5tq5DUwW04"
+    },
+    {
+      "name": "Sutapa Sarkar",
+      "skills": "Playwright",
+      "role": "Qa Engineer",
+      "id": "Y79YMr8AM0g"
+    },
+    {
+      "name": "Sutapa Sarkar",
+      "skills": "Playwright",
+      "role": "Qa Engineer",
+      "id": "oU5Cd7A7i-E"
+    },
+    {
+      "name": "Sutapa Sarkar",
+      "skills": "Playwright",
+      "role": "QA Engineer",
+      "id": "3PIV86EwIzs"
+    },
+    {
+      "name": "Sutapa Updated",
+      "skills": "TypeScript",
+      "role": "Senior QA Engineer",
+      "id": "QHc58h0eSik"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

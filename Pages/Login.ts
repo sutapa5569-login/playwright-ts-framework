@@ -48,6 +48,7 @@ export class LoginPage extends BasePage {
         }else{
             await expect(this.errormessage).toBeVisible();
             console.log('Error message is displayed: ' + await this.errormessage.textContent());
+            await this.page.screenshot({path: `screenshots/login_error_${Date.now()}.png`, fullPage: true});
         }
     }
 }
