@@ -71,6 +71,12 @@
       "skills": "TypeScript",
       "role": "Senior QA Engineer",
       "id": "QHc58h0eSik"
+    },
+    {
+      "name": "Sutapa Updated",
+      "skills": "TypeScript",
+      "role": "Senior QA Engineer",
+      "id": "l3UK1XUq6dU"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
